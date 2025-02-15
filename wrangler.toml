@@ -1,0 +1,8 @@
+name = "zennit"
+type = "javascript"
+
+# Archivo de entrada del Worker
+main = "src/index.js"
+
+# Fecha de compatibilidad con la versión actual de Cloudflare Workers
+compatibility_date = "2024-02-14"
